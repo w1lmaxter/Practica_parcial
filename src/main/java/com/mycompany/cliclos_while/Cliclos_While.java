@@ -1,5 +1,6 @@
 git remote add origin https://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@github.com/w1lmaxter/tercerParcial.git
 git branch -M main
+git commit -n "primer commit parcial"
 git push origin main
 git remote remove origin
 
