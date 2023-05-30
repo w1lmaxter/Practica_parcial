@@ -2,7 +2,7 @@ git remote add origin https://github.com/w1lmaxter/tercerParcial.git
 git branch -M main
 git push -u origin main
 
-
+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
 
 //aca estamos preparandonos para el parcial
 package com.mycompany.cliclos_while;
