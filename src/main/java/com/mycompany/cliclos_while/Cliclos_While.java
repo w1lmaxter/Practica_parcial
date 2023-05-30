@@ -1,24 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
+//aca estamos preparandonos para el parcial
 package com.mycompany.cliclos_while;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Isoto
- */
 public class Cliclos_While {
 
     int numero;
 
     public static void main(String[] args) {
-        /**
-         * Ejercicio 1: Leer un número y mostrar su cuadrado, repetir el proceso
-         * hasta que se introduzca un número negativo.
-         */
+        System.out.println(" Agregando texto al codigo");
         int numero, cuadrado;/*podemos declarar la variable tipo double para usar numeros grandes,
           pero en la linea 62 la igualamos a (Int)para ahorrar memoria*/
         numero = Integer.parseInt(JOptionPane.showInputDialog("Por favor digite un numero "));
