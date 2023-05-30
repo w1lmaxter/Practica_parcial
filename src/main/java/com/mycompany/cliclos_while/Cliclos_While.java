@@ -1,8 +1,10 @@
-git remote add origin https://github.com/w1lmaxter/tercerParcial.git
+git remote add origin https://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@github.com/w1lmaxter/tercerParcial.git
 git branch -M main
-git push -u origin main
+git push origin main
+git remote remove origin
 
-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
+https://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@github.com/w1lmaxter/tercerParcial.git
+token = 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
 
 //aca estamos preparandonos para el parcial
 package com.mycompany.cliclos_while;
